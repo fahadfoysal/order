@@ -23,7 +23,7 @@
 Clone the repository:
 
 ```bash
-  [https://github.com/fahadfoysal/movie-rating](https://github.com/fahadfoysal/order)
+  https://github.com/fahadfoysal/order
 
 ```
 Install dependencies:
