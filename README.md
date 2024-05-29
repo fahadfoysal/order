@@ -7,7 +7,7 @@
 
 ## Features
 
-- CREAT
+- CREATE
 - READ
 - UPDATE
 - DELETE
